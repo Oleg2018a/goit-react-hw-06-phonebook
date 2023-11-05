@@ -9,12 +9,3 @@ export const Items = styled.li`
     margin-bottom: 0;
   }
 `;
-export const DeleteButton = styled.button`
-  margin-left: ${p => p.theme.spacing(4)};
-  background-color: #0a0a23;
-  color: #fff;
-  border: none;
-  border-radius: 10px;
-  padding: 5px;
-  cursor: pointer;
-`;
